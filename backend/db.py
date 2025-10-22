@@ -23,11 +23,11 @@ def get_transactions():
 if __name__ == "__main__":
     print("Database module loaded successfully.")
     test_data = {
-        "id": 1,
+        "id": 2,
         "date": "2025-10-21",
-        "amount": 1200,
+        "amount": 1000,
         "category": "Food",
-        "note": "Dinner with friends",
+        "note": "Dinnner with Friensds",
         "payment_method": "UPI"
     }
 
